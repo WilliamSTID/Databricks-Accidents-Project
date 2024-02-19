@@ -19,6 +19,7 @@ Ce repository contient:
 
 - Les données utilisées:
   - Les données brutes
+  - Les données pré-traitées
 - Les deux notebooks Databricks:
   - 'Modelisation.dbc' qui est le notebook où l'on a préprocessé nos données brutes et où l'on a développé nos différents modèles.
   - 'Test API' qui est le notebook où l'on a testé l'API de notre meilleur modèle de classification.
